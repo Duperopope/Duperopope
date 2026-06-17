@@ -2,7 +2,7 @@
 
 Je conçois des outils et prototypes complets (du backend au frontend) avec Unreal Engine, Unity, C#, C++, Python et JavaScript/Node.js. Basé à Lyon, je fais aussi tourner [Kairos Forge](https://github.com/Duperopope), une petite structure de dev indépendant.
 
-**CV interactif :** [duperopope.github.io/SamirMedjaher](https://duperopope.github.io/SamirMedjaher/) · **LinkedIn :** [samir-medjaher](https://www.linkedin.com/in/samir-medjaher/) · **Email :** s.medjaher@gmail.com
+**Site livré en production :** [constructioncomores.com](https://constructioncomores.com) · **CV interactif :** [duperopope.github.io/SamirMedjaher](https://duperopope.github.io/SamirMedjaher/) · **LinkedIn :** [samir-medjaher](https://www.linkedin.com/in/samir-medjaher/) · **Email :** s.medjaher@gmail.com
 
 ---
 
@@ -10,7 +10,7 @@ Je conçois des outils et prototypes complets (du backend au frontend) avec Unre
 
 | Projet | Description |
 |---|---|
-| [artisans-comores](https://github.com/Duperopope/artisans-comores) | Site vitrine — mise en relation artisans Comores / diaspora France (TypeScript) |
+| [constructioncomores.com](https://constructioncomores.com) | Site business en production — gestion de travaux aux Comores depuis la France |
 | [rse-rsn-calculator](https://github.com/Duperopope/rse-rsn-calculator) | Calculateur de conformité réglementation sociale transport routier — 203/203 tests QA |
 | [frame-factory](https://github.com/Duperopope/frame-factory) | Build optimizer pour Warframe, avec CI/CD et démo live |
 | [wakfu-assistant](https://github.com/Duperopope/wakfu-assistant) | Overlay temps réel pour Wakfu (Tauri/Rust + SolidJS) |
